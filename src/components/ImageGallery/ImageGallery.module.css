@@ -1,0 +1,9 @@
+.listImages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
